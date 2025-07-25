@@ -2,6 +2,9 @@
 
 ## 📘 Project Overview
 
+![Hollywood picture](los_angeles.jpg)
+
+
 This project analyzes crime data provided by the Los Angeles Police Department (LAPD) to identify patterns in criminal activity. Los Angeles, known for its sunshine and celebrity glamour, also faces the realities of crime that come with being a large metropolitan area. 
 
 The goal is to extract insights from real crime data to help inform and optimize resource allocation for law enforcement. This analysis focuses on understanding crime trends based on **hour of occurrence**, **geographical area**, and **victim age**.
