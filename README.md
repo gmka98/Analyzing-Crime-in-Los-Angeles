@@ -74,3 +74,43 @@ victim_ages = pd.Series({
     "55-64": 1723,
     "65+": 990
 })
+
+## 📌 Conclusion
+- The hour with the most crimes typically occurs around late evening.
+
+- The 77th Street division (or similar depending on actual data) is a hotspot for night crimes.
+
+- Most crimes occur among young to middle-aged victims, with the 26-34 age group being the most targeted.
+
+## 📦 How to Run
+1. Clone the repo or download the files.
+
+2. Ensure you have Python installed.
+
+3. Install dependencies:
+
+pip install -r requirements.txt
+
+4. Run the analysis script in Jupyter or any Python environment.
+
+## 🛠 Tech Stack
+- Python
+
+- Pandas
+
+- Seaborn
+
+- Matplotlib
+
+- Jupyter Notebook
+
+- Excel
+## 🙌 Acknowledgements
+Data sourced from the Los Angeles Open Data Portal.
+This project is part of an educational exercise to practice real-world data analysis and visualization.
+
+## ✨ Author
+Gael Mukendi Kabongo
+[GitHub](https://github.com/gmka98) – [LinkedIn](https://www.linkedin.com/in/gael-mukendi-kabongo/)
+
+
